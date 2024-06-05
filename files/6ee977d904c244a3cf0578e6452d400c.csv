@@ -1,0 +1,5 @@
+Name,Code,Barcode Symbology,Brand,Category Code,Unit Code,Sale Unit Code, Purchase Unit Code,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Image,Subcategory Code,Product Variants Separated by |,Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6
+URB 6202/2RS - DGB BEARING,0170,code128,URB,001,-,-,dozen,230,345,10,No Tax,exclusive,no_image.png,001-01,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+URB 6204/2RS - DGB BEARING,0171,code128,URB,001,-,-,dozen,380,570,10,No Tax,exclusive,no_image.png,001-01,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+URB 6302/2RS - DGB BEARING,0172,code128,URB,001,-,-,dozen,350,525,10,No Tax,exclusive,no_image.png,001-01,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6
+URB 6204CM - DGB BEARING,0173,code128,URB,001,-,-,dozen,340,510,10,No Tax,exclusive,no_image.png,001-01,Red|Blue|Black|White,CF1,CF2,CF3,CF4,CF5,CF6

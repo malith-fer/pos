@@ -1,0 +1,6 @@
+Name,Code,Barcode Symbology,Brand,Category Code,Unit Code,Sale Unit Code, Purchase Unit Code,Cost,Price,Alert Quantity, Tax Rate Name,Tax Method,Image,Subcategory Code,Product Variants Separated by |,Custom Field 1,Custom Field 2,Custom Field 3,Custom Field 4,Custom Field 5,Custom Field 6
+URB 6004/2RS - D G B BEARING,0195,code128,URB,001,-,-,-,385,558,10,No Tax,Exclusive,no_image.png,001-01,,,,,,,
+URB 6203/2RS - D G B BEARING,0196,code128,URB,002,-,-,-,390,566,10,No Tax,Exclusive,no_image.png,001-01,,,,,,,
+URB 6204ZZ - D G B BEARING,0197,code128,URB,003,-,-,-,440,638,10,No Tax,Exclusive,no_image.png,001-01,,,,,,,
+URB 6205/2RS - D G B BEARING,0198,code128,URB,004,-,-,-,500,725,10,No Tax,Exclusive,no_image.png,001-01,,,,,,,
+URB 6300/2RS - D G B BEARING,0199,code128,URB,005,-,-,-,420,609,10,No Tax,Exclusive,no_image.png,001-01,,,,,,,
